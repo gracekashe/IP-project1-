@@ -1,9 +1,52 @@
-.header {
-  text-align: center;
+.head {
+  text-align: left;
   font-family: sans-serif;
+  position: relative;
+  bottom: 10px;
 }
 
 body {
   background-image: url('../images/backg.jpg');
   background-size: 1500px;
+}
+
+.header {
+  position: relative;
+  background-color: Azure;
+  padding: 3%;
+  margin: 2px;
+  border: 1px;
+}
+
+.important {
+  font-size: 25px;
+  font-style: italic;
+}
+
+p {
+  position: relative;
+  top: 30px;
+}
+
+img {
+  position: absolute;
+  float: right;
+  top: 10px;
+  left: 400px;
+}
+
+.a {
+  position: relative;
+  top: 10px;
+}
+
+.list {
+  position: relative;
+  top: 25px;
+}
+
+.main {
+  background-color: Azure;
+  padding: 3%;
+  border: 1px solid black;
 }
