@@ -1,0 +1,9 @@
+.header {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+body {
+  background-image: url('../images/backg.jpg');
+  background-size: 1500px;
+}
