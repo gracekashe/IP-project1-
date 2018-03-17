@@ -11,7 +11,7 @@
  }
 
  .header {
-   background-image: url('../images/backg.jpg');
+   background-image: url('../images/rain.jpg');
    color: black;
    position: relative;
    background-color: Azure;
@@ -38,9 +38,9 @@
    position: absolute;
    float: right;
    top: 20px;
-   left: 300px;
+   left: 100px;
    border: 1px solid black;
-   border-radius: 50%;
+   border-radius: 10%;
  }
 
  .a {

@@ -2,15 +2,23 @@
 
 This is a the first week's project which incorporates everything I learnt during the week.
 
-portfolio landing version 1.0.0
+portfolio landing --version 1.0.0
 
 code includes divisions to the page.it also used to show the important stuff.
-
-        1
+Project Setup Instructions
+    1. created a main directory
+       $ mkdir independent-p,subfolder like images and css,
+    2. created necessary files for the project
+    $ touch index.html,   
+    3. wrote my code for html and css.
 ```
 AUTHOR:
 Grace Marion Karanja
 contact: gracekashe@gmail.com
+
+Installation
+
+Use git pull
 
 The GPL License
 Applies to;
