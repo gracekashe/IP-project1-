@@ -1,61 +1,66 @@
-.head {
-  text-align: left;
-  font-family: sans-serif;
-  position: relative;
-  bottom: 10px;
-}
+ .head {
+   text-align: left;
+   font-family: sans-serif;
+   position: relative;
+   top: 40px;
+ }
 
-body {
-  background-image: url('../images/backg.jpg');
-  background-size: 1500px;
-}
+ body {
+   background-color: Azure;
+   background-size: 1500px;
+ }
 
-.header {
-  color: black;
-  position: relative;
-  background-color: Azure;
-  padding: 3%;
-  margin: 2px;
-  border: 1px;
-  width: 60%;
-  transform-style: preserve-3d;
-}
+ .header {
+   background-image: url('../images/backg.jpg');
+   color: black;
+   position: relative;
+   background-color: Azure;
+   padding: 10%;
+   border: 0px;
+   height: 40%;
+   padding-left: 20%;
+   padding-right: 20%;
+ }
 
-.important {
-  font-size: 18px;
-  font-style: italic;
-  font-weight: bold;
-}
+ .important {
+   font-size: 18px;
+   font-style: italic;
+   font-weight: bold;
+ }
 
-p . header {
-  color: black;
-  position: relative;
-  top: 30px;
-}
+ p {
+   color: black;
+   position: relative;
+   top: 20px;
+ }
 
-img {
-  position: absolute;
-  float: right;
-  top: 10px;
-  left: 400px;
-  border-radius: 50%;
-}
+ img {
+   position: absolute;
+   float: right;
+   top: 20px;
+   left: 300px;
+   border: 1px solid black;
+   border-radius: 50%;
+ }
 
-.a {
-  color: grey;
-  position: relative;
-  top: 10px;
-}
+ .a {
+   color: grey;
+   font-weight: bold;
+   position: relative;
+   top: 10px;
+ }
 
-.list {
-  position: relative;
-  top: 25px;
-}
+ .list {
+   position: relative;
+   top: 25px;
+ }
 
-.main {
-  color: white;
-  background-color: black;
-  padding: 3%;
-  border: 1px solid black;
-  width: 60%;
-}
+ .main {
+   color: black;
+   background-color: Azure;
+   padding: 3%;
+   border: 1px solid Azure;
+   width: 60%;
+   padding-left: 20%;
+   padding-right: 20%;
+ }
