@@ -12,5 +12,6 @@ AUTHOR:
 Grace Marion Karanja
 contact: gracekashe@gmail.com
 
-LICENSE
-GPL. grace marion.
+The GPL License
+Applies to;
+Ajax upload,copyright (c) Grace Marion. <--link to personal website>
