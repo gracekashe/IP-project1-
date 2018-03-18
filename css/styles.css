@@ -12,6 +12,7 @@
 
  .header {
    background-image: url('../images/rain.jpg');
+   background-size: 1400px;
    color: black;
    position: relative;
    background-color: Azure;
