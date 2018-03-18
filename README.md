@@ -11,6 +11,8 @@ Project Setup Instructions
     2. created necessary files for the project
     $ touch index.html,   
     3. wrote my code for html and css.
+    4. then git push origin master
+    live site in github pages ;https://github.com/gracekashe/IP-project1-.git
 ```
 AUTHOR:
 Grace Marion Karanja
@@ -21,5 +23,5 @@ Installation
 Use git pull
 
 The GPL License
-Applies to;
-Ajax upload,copyright (c) Grace Marion. <--link to personal website>
+
+copyright (c) Grace Marion. <--link to personal website>
