@@ -12,7 +12,7 @@ Project Setup Instructions
     $ touch index.html,   
     3. wrote my code for html and css.
     4. then git push origin master
-    live site in github pages ;https://github.com/gracekashe/IP-project1-.git
+    live site in github pages ;https://gracekashe.github.io/IP-project1-/
 ```
 AUTHOR:
 Grace Marion Karanja
